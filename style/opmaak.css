@@ -5,11 +5,11 @@
 
 body {
   font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
-  background: #FFA500;
+  background: grey url('../images/moederboard.jpg') repeat;
 }
 
 header {
-  background: #FFA500;
+  background: grey url('../images/robot.jpeg') repeat;
   width: 960px;
   height: 150px;
 }
@@ -19,7 +19,7 @@ header h1 {
   font-family: Georgia, "Times New Roman", Times, serif;
   color: black;
   text-align: right;
-  text-shadow: 5px 5px 7px #000000;
+  text-shadow: 3px 3px 2px #222024;
 }
 
 #menu {
@@ -31,7 +31,6 @@ header h1 {
 }
 
 ul {
-  background: #FFA500;
   padding: 10px;
 }
 
