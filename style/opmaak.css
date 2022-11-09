@@ -10,6 +10,7 @@ body {
 
 header {
   background: #2B6F72;
+  background-color: rgba(43, 111, 114, 0.5);
   width: 960px;
   height: 150px;
 }
