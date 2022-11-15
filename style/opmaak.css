@@ -23,7 +23,7 @@ header h1 {
   text-shadow: 3px 3px 2px #222024;
 }
 
-#menu {
+#menu display:inline-block{
   position: sticky;
   top: 7%;
   width: 8em;
@@ -37,6 +37,7 @@ ul {
 ul li {
   padding: 5px;
   border: solid 2px black;
+  background-color: #005559;
   display: inline-block;
 }
 
